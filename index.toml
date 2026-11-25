@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/brotherhood-0.1.0.jar"
+hash = "bb6243f3f14c1abb9e246f654011348b835427c0951418ef321fc99a6f74facd"
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "1b82e1c400dfda938188d108d48ad3b570f3bce996be92e6b00f9b3fb2536efd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
