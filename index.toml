@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/brotherhood-0.1.0.jar"
-hash = "f95de7ad9ac081dbaf85ba2687ad538aa9208f4d7d835b977a8bad503cebc520"
+hash = "38cd9e2ae099b06b68dec6c4755f1f2027a9a12fa34178e02efdcc20046a8cf5"
 
 [[files]]
 file = "mods/e4mc.pw.toml"
