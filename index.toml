@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
+metafile = true
+
+[[files]]
 file = "mods/brotherhood-0.1.0.jar"
-hash = "18549c79ebf2de37e059113c1231ed52a5541f3aa2a3fc3a8245c845f3a0f6bf"
+hash = "df5660e428dabcb1b52d42f3aa9bb4bd2fe043e8221008559ce4e215189eec68"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b0546f45e009e4e65170731adf21fd5def86c46c959e28686d0091f8c774a697"
+metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
@@ -10,6 +20,31 @@ hash = "1b82e1c400dfda938188d108d48ad3b570f3bce996be92e6b00f9b3fb2536efd"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "824dea5201f2a7def2201ea840b76f5f76976692a78c2bf995ed4527d03fa8d4"
+metafile = true
+
+[[files]]
+file = "mods/mowzie-s-mobs.pw.toml"
+hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
+metafile = true
+
+[[files]]
+file = "mods/player-animator.pw.toml"
+hash = "54e4603bb56cdba7ae399f6a0ed4e859a615970e18cd7c9afe5b2ef38ef353fd"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/yung-s-api.pw.toml"
+hash = "dde31f05114c72cb2f58e522417487730b872e456f77fdd02c032c9235791f6c"
+metafile = true
+
+[[files]]
+file = "mods/yung-s-better-dungeons.pw.toml"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
