@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/brotherhood-0.1.0.jar"
-hash = "fe7dc34f17dd15a4db1eda8d0ad6420735d5e9759cfc44cf816bef461384e727"
+hash = "5c2a6e61228b393cd1f943cbaa832cb0246c17625c1ccf7bcedeb3387a0ef9f7"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
